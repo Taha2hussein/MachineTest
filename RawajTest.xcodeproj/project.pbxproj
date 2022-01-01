@@ -85,6 +85,7 @@
 		004F6CC52780BD2A00EF564F /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 		004F6CC72780BD3800EF564F /* DetailsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewModel.swift; sourceTree = "<group>"; };
 		004F6CC92780BD4500EF564F /* DetailsConfiguration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsConfiguration.swift; sourceTree = "<group>"; };
+		004F6CCB2780D1D700EF564F /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 		00FABDCF27809A0C00AB98AD /* RawajTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RawajTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		00FABDD227809A0C00AB98AD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		00FABDD427809A0C00AB98AD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -322,6 +323,7 @@
 		00FABDC627809A0C00AB98AD = {
 			isa = PBXGroup;
 			children = (
+				004F6CCB2780D1D700EF564F /* Readme.md */,
 				00FABDD127809A0C00AB98AD /* RawajTest */,
 				00FABDEB27809A1100AB98AD /* RawajTestTests */,
 				00FABDF527809A1100AB98AD /* RawajTestUITests */,
