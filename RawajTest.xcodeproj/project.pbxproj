@@ -30,13 +30,14 @@
 		004F6CC62780BD2A00EF564F /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 004F6CC52780BD2A00EF564F /* DetailsViewController.swift */; };
 		004F6CC82780BD3800EF564F /* DetailsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 004F6CC72780BD3800EF564F /* DetailsViewModel.swift */; };
 		004F6CCA2780BD4500EF564F /* DetailsConfiguration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 004F6CC92780BD4500EF564F /* DetailsConfiguration.swift */; };
+		004F6CCF2780F01D00EF564F /* ArticleViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 004F6CCE2780F01D00EF564F /* ArticleViewModelTests.swift */; };
+		004F6CD02780F9D700EF564F /* sample.json in Resources */ = {isa = PBXBuildFile; fileRef = 004F6CCC2780EED700EF564F /* sample.json */; };
 		00FABDD327809A0C00AB98AD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00FABDD227809A0C00AB98AD /* AppDelegate.swift */; };
 		00FABDD527809A0C00AB98AD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00FABDD427809A0C00AB98AD /* SceneDelegate.swift */; };
 		00FABDDA27809A0C00AB98AD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00FABDD827809A0C00AB98AD /* Main.storyboard */; };
 		00FABDDD27809A0C00AB98AD /* RawajTest.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 00FABDDB27809A0C00AB98AD /* RawajTest.xcdatamodeld */; };
 		00FABDDF27809A1100AB98AD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00FABDDE27809A1100AB98AD /* Assets.xcassets */; };
 		00FABDE227809A1100AB98AD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00FABDE027809A1100AB98AD /* LaunchScreen.storyboard */; };
-		00FABDED27809A1100AB98AD /* RawajTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00FABDEC27809A1100AB98AD /* RawajTestTests.swift */; };
 		00FABDF727809A1100AB98AD /* RawajTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00FABDF627809A1100AB98AD /* RawajTestUITests.swift */; };
 		00FABDF927809A1100AB98AD /* RawajTestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00FABDF827809A1100AB98AD /* RawajTestUITestsLaunchTests.swift */; };
 		037F1DE346AEF854BFD4DE0A /* Pods_RawajTestTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DA78C87C1CF05E0F90CDF45C /* Pods_RawajTestTests.framework */; };
@@ -86,6 +87,8 @@
 		004F6CC72780BD3800EF564F /* DetailsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewModel.swift; sourceTree = "<group>"; };
 		004F6CC92780BD4500EF564F /* DetailsConfiguration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsConfiguration.swift; sourceTree = "<group>"; };
 		004F6CCB2780D1D700EF564F /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
+		004F6CCC2780EED700EF564F /* sample.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = sample.json; sourceTree = "<group>"; };
+		004F6CCE2780F01D00EF564F /* ArticleViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleViewModelTests.swift; sourceTree = "<group>"; };
 		00FABDCF27809A0C00AB98AD /* RawajTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RawajTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		00FABDD227809A0C00AB98AD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		00FABDD427809A0C00AB98AD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -95,7 +98,6 @@
 		00FABDE127809A1100AB98AD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		00FABDE327809A1100AB98AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00FABDE827809A1100AB98AD /* RawajTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RawajTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		00FABDEC27809A1100AB98AD /* RawajTestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RawajTestTests.swift; sourceTree = "<group>"; };
 		00FABDF227809A1100AB98AD /* RawajTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RawajTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00FABDF627809A1100AB98AD /* RawajTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RawajTestUITests.swift; sourceTree = "<group>"; };
 		00FABDF827809A1100AB98AD /* RawajTestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RawajTestUITestsLaunchTests.swift; sourceTree = "<group>"; };
@@ -361,7 +363,8 @@
 		00FABDEB27809A1100AB98AD /* RawajTestTests */ = {
 			isa = PBXGroup;
 			children = (
-				00FABDEC27809A1100AB98AD /* RawajTestTests.swift */,
+				004F6CCC2780EED700EF564F /* sample.json */,
+				004F6CCE2780F01D00EF564F /* ArticleViewModelTests.swift */,
 			);
 			path = RawajTestTests;
 			sourceTree = "<group>";
@@ -513,6 +516,7 @@
 				00FABDE227809A1100AB98AD /* LaunchScreen.storyboard in Resources */,
 				00FABDDF27809A1100AB98AD /* Assets.xcassets in Resources */,
 				00FABDDA27809A0C00AB98AD /* Main.storyboard in Resources */,
+				004F6CD02780F9D700EF564F /* sample.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -688,7 +692,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00FABDED27809A1100AB98AD /* RawajTestTests.swift in Sources */,
+				004F6CCF2780F01D00EF564F /* ArticleViewModelTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

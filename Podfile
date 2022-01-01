@@ -16,6 +16,7 @@ target 'RawajTest' do
     # Pods for testing
   end
 
+  
   pod 'Alamofire', '~> 4.8'
   pod 'NVActivityIndicatorView'
   pod 'PKHUD'
@@ -25,5 +26,7 @@ target 'RawajTest' do
   pod 'RxReachability'
   pod 'RxKeyboard'
   pod 'SwiftLint'
-
+  # Pods for testing
+  pod 'RxBlocking'
+  pod 'RxTest'
 end

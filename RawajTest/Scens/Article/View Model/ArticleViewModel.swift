@@ -14,7 +14,7 @@ class ArticleViewModel {
     var state = State()
     private weak var view: ArticleViewController?
     private var router: ArticleConfiguration?
-    private var articles = PublishSubject<[Result]>()
+    var articles = PublishSubject<[Result]>()
     var articlesObservables: PublishSubject<[Result]> {
         return articles
     }

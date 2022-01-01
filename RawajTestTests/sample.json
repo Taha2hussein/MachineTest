@@ -1,0 +1,1197 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+    "num_results": 20,
+    "results": [
+        {
+            "uri": "nyt://article/6fb618a6-e1ac-5aca-8cbd-933881383af8",
+            "url": "https://www.nytimes.com/2021/12/24/style/marriage-heather-havrilesky-foreverland.html",
+            "id": 100000008119328,
+            "asset_id": 100000008119328,
+            "source": "New York Times",
+            "published_date": "2021-12-24",
+            "updated": "2021-12-24 20:34:45",
+            "section": "Style",
+            "subsection": "",
+            "nytdsection": "style",
+            "adx_keywords": "Marriages",
+            "column": null,
+            "byline": "By Heather Havrilesky",
+            "type": "Article",
+            "title": "Marriage Requires Amnesia",
+            "abstract": "Do I hate my husband? Oh for sure, yes, definitely.",
+            "des_facet": [
+                "Marriages"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jake Terrell",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/26/fashion/00Havrilesky-Excerpt/00Havrilesky-Excerpt-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/26/fashion/00Havrilesky-Excerpt/00Havrilesky-Excerpt-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/26/fashion/00Havrilesky-Excerpt/00Havrilesky-Excerpt-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/dd926601-9603-56f3-8aa4-5755bbfd040a",
+            "url": "https://www.nytimes.com/2021/12/28/business/tax-break-qualified-small-business-stock.html",
+            "id": 100000008118614,
+            "asset_id": 100000008118614,
+            "source": "New York Times",
+            "published_date": "2021-12-28",
+            "updated": "2021-12-29 00:29:02",
+            "section": "Business",
+            "subsection": "",
+            "nytdsection": "business",
+            "adx_keywords": "Tax Credits, Deductions and Exemptions;High Net Worth Individuals;Computers and the Internet;Capital Gains Tax;Start-ups;Venture Capital",
+            "column": null,
+            "byline": "By Jesse Drucker and Maureen Farrell",
+            "type": "Article",
+            "title": "A Lavish Tax Dodge for the Ultrawealthy Is Easily Multiplied",
+            "abstract": "Once aimed at small businesses, a 1990s-era tax break has become a popular way for Silicon Valley founders and investors to avoid taxes on their investment profits.",
+            "des_facet": [
+                "Tax Credits, Deductions and Exemptions",
+                "High Net Worth Individuals",
+                "Computers and the Internet",
+                "Capital Gains Tax",
+                "Start-ups",
+                "Venture Capital"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "David Baszucki, the chief executive of Roblox.",
+                    "copyright": "Jason Henry for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/24/business/00taxavoidance-lede/00taxavoidance-lede-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/24/business/00taxavoidance-lede/00taxavoidance-lede-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/24/business/00taxavoidance-lede/00taxavoidance-lede-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/a4158088-3f57-5250-a58a-251478f697c5",
+            "url": "https://www.nytimes.com/2021/12/24/realestate/why-do-people-keep-books.html",
+            "id": 100000008122744,
+            "asset_id": 100000008122744,
+            "source": "New York Times",
+            "published_date": "2021-12-24",
+            "updated": "2021-12-26 17:31:42",
+            "section": "Real Estate",
+            "subsection": "",
+            "nytdsection": "real estate",
+            "adx_keywords": "Real Estate and Housing (Residential);Books and Literature;Libraries and Librarians;Interior Design and Furnishings;Waters, Alice",
+            "column": null,
+            "byline": "By Julie Lasky",
+            "type": "Article",
+            "title": "How Many Books Does It Take to Make a Place Feel Like Home?",
+            "abstract": "There’s a reason that some people won’t let go of their physical books — and a new term for it: ‘book-wrapt.’",
+            "des_facet": [
+                "Real Estate and Housing (Residential)",
+                "Books and Literature",
+                "Libraries and Librarians",
+                "Interior Design and Furnishings"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Waters, Alice"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The quintessential family library at Lamport Hall, in Northamptonshire, England, dates from the early 1730s (the furniture and fixtures were updated in the early 19th century).",
+                    "copyright": "Reid Byers, Courtesy of the Lamport Hall Preservation Trust",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/24/realestate/24LIBRARY-slide-U15M/24LIBRARY-slide-U15M-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/24/realestate/24LIBRARY-slide-U15M/24LIBRARY-slide-U15M-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/24/realestate/24LIBRARY-slide-U15M/24LIBRARY-slide-U15M-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/d4cc9075-f608-574f-80bc-0ce8a99c8c14",
+            "url": "https://www.nytimes.com/article/testing-positive-covid-omicron-variant.html",
+            "id": 100000008123900,
+            "asset_id": 100000008123900,
+            "source": "New York Times",
+            "published_date": "2021-12-18",
+            "updated": "2021-12-28 09:29:57",
+            "section": "Well",
+            "subsection": "Live",
+            "nytdsection": "well",
+            "adx_keywords": "Coronavirus Omicron Variant;Coronavirus (2019-nCoV);Tests (Medical);Antibodies;Quarantines;Contact Tracing (Public Health);Content Type: Service;internal-essential;Coronavirus Risks and Safety Concerns",
+            "column": null,
+            "byline": "By Dani Blum and Nicole Stock",
+            "type": "Article",
+            "title": "You Tested Positive for Covid. Now What?",
+            "abstract": "The Omicron variant has fueled a rise in Covid-19 cases across the United States. Here’s what you need to know if you get infected.",
+            "des_facet": [
+                "Coronavirus Omicron Variant",
+                "Coronavirus (2019-nCoV)",
+                "Tests (Medical)",
+                "Antibodies",
+                "Quarantines",
+                "Contact Tracing (Public Health)",
+                "Content Type: Service",
+                "internal-essential",
+                "Coronavirus Risks and Safety Concerns"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A positive result from a Covid-19 rapid antigen test.",
+                    "copyright": "Octavio Jones/Reuters",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/17/well/17well-virus-positive2/17well-virus-positive2-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/17/well/17well-virus-positive2/17well-virus-positive2-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/17/well/17well-virus-positive2/17well-virus-positive2-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/3996270f-c945-5df8-9c6b-2bc38d146ea2",
+            "url": "https://www.nytimes.com/2021/12/26/us/oklahoma-masks.html",
+            "id": 100000007977675,
+            "asset_id": 100000007977675,
+            "source": "New York Times",
+            "published_date": "2021-12-26",
+            "updated": "2021-12-26 19:19:57",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Local Government;City Councils;Masks;Coronavirus (2019-nCoV);Fringe Groups and Movements;Polls and Public Opinion;Immigration and Emigration;Race and Ethnicity;Population;Republican Party;Enid (Okla)",
+            "column": null,
+            "byline": "By Sabrina Tavernise",
+            "type": "Article",
+            "title": "First They Fought About Masks. Then Over the Soul of the City.",
+            "abstract": "In Enid, Okla., pandemic politics prompted a fundamental question: What does it mean to be an American? Whose version of the country will prevail?",
+            "des_facet": [
+                "Local Government",
+                "City Councils",
+                "Masks",
+                "Coronavirus (2019-nCoV)",
+                "Fringe Groups and Movements",
+                "Polls and Public Opinion",
+                "Immigration and Emigration",
+                "Race and Ethnicity",
+                "Population"
+            ],
+            "org_facet": [
+                "Republican Party"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Enid (Okla)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Wade Burleson spoke out against vaccine and mask mandates, warning that they would be steps toward total government control.",
+                    "copyright": "September Dawn Bottoms for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/25/us/25ENID-OKLAHOMA-5-retoned/25ENID-OKLAHOMA-5-retoned-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/25/us/25ENID-OKLAHOMA-5-retoned/25ENID-OKLAHOMA-5-retoned-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/25/us/25ENID-OKLAHOMA-5-retoned/25ENID-OKLAHOMA-5-retoned-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/17bd1f59-e994-548e-a07a-6d1fa5b92b0e",
+            "url": "https://www.nytimes.com/article/tests-covid-omicron-pcr-rapid.html",
+            "id": 100000008133387,
+            "asset_id": 100000008133387,
+            "source": "New York Times",
+            "published_date": "2021-12-23",
+            "updated": "2021-12-29 08:56:34",
+            "section": "Well",
+            "subsection": "Live",
+            "nytdsection": "well",
+            "adx_keywords": "Tests (Medical);Coronavirus Risks and Safety Concerns;Content Type: Service;Laboratories and Scientific Equipment;Coronavirus Omicron Variant;Coronavirus (2019-nCoV);Quarantines;Vaccination and Immunization;Medicine and Health;Spitting (Expectoration);Proteins;Parties (Social)",
+            "column": null,
+            "byline": "By Tara Parker-Pope, Dani Blum and Nicole Stock",
+            "type": "Article",
+            "title": "Which Covid Test Should I Get? When Should I Test? What If I Can’t Find One? Answers About Testing and Omicron.",
+            "abstract": "Facing long lines and shortages of home test kits during the latest surge, people are searching for answers about Covid tests.",
+            "des_facet": [
+                "Tests (Medical)",
+                "Coronavirus Risks and Safety Concerns",
+                "Content Type: Service",
+                "Laboratories and Scientific Equipment",
+                "Coronavirus Omicron Variant",
+                "Coronavirus (2019-nCoV)",
+                "Quarantines",
+                "Vaccination and Immunization",
+                "Medicine and Health",
+                "Spitting (Expectoration)",
+                "Proteins",
+                "Parties (Social)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Danielle St. Laurent for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/22/well/22well-virustesting/22well-virustesting-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/22/well/22well-virustesting/22well-virustesting-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/22/well/22well-virustesting/22well-virustesting-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/89fba66e-1f07-51b5-bfc6-179a7ca1dc05",
+            "url": "https://www.nytimes.com/2021/12/20/well/mind/how-to-declutter.html",
+            "id": 100000008124627,
+            "asset_id": 100000008124627,
+            "source": "New York Times",
+            "published_date": "2021-12-20",
+            "updated": "2021-12-27 08:47:03",
+            "section": "Well",
+            "subsection": "Mind",
+            "nytdsection": "well",
+            "adx_keywords": "Orderliness and Clutter;Content Type: Service",
+            "column": null,
+            "byline": "By Jane E. Brody",
+            "type": "Article",
+            "title": "Why We Clutter, and What to Do About It",
+            "abstract": "All that “stuff” in our drawers, closets and corners is a hazard, but there are ways to keep it at bay.",
+            "des_facet": [
+                "Orderliness and Clutter",
+                "Content Type: Service"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Rachel Levit Ruiz",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/21/science/21sci-brody-clutter/21sci-brody-clutter-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/21/science/21sci-brody-clutter/21sci-brody-clutter-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/21/science/21sci-brody-clutter/21sci-brody-clutter-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/777e2c54-befd-5e5b-a91f-b46762127ecc",
+            "url": "https://www.nytimes.com/2021/12/24/arts/albrecht-durer-drawing-discovered.html",
+            "id": 100000008128031,
+            "asset_id": 100000008128031,
+            "source": "New York Times",
+            "published_date": "2021-12-24",
+            "updated": "2021-12-25 23:56:23",
+            "section": "Arts",
+            "subsection": "",
+            "nytdsection": "arts",
+            "adx_keywords": "Art;Durer, Albrecht;Schorer, Clifford;British Museum;Concord (Mass)",
+            "column": null,
+            "byline": "By Alyssa Lukpat",
+            "type": "Article",
+            "title": "He Paid $30 for a Drawing. It Could Be a Renaissance Work Worth Millions.",
+            "abstract": "A man bought a yellowing picture of the Virgin Mary and Child at an estate sale in Massachusetts. Experts believe it is by the renowned German artist Albrecht Dürer.",
+            "des_facet": [
+                "Art"
+            ],
+            "org_facet": [
+                "British Museum"
+            ],
+            "per_facet": [
+                "Durer, Albrecht",
+                "Schorer, Clifford"
+            ],
+            "geo_facet": [
+                "Concord (Mass)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A drawing believed to be by Albrecht Dürer titled “The Virgin and Child With a Flower on a Grassy Bench” on display in London in November.",
+                    "copyright": "Leon Neal/Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/19/us/00xp-durer-top/00xp-durer-top-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/19/us/00xp-durer-top/00xp-durer-top-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/19/us/00xp-durer-top/00xp-durer-top-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/e7a335e8-7793-52ed-a093-bdde0c295a91",
+            "url": "https://www.nytimes.com/2021/12/29/well/move/short-workouts-mind-body.html",
+            "id": 100000008137100,
+            "asset_id": 100000008137100,
+            "source": "New York Times",
+            "published_date": "2021-12-29",
+            "updated": "2021-12-29 07:27:15",
+            "section": "Well",
+            "subsection": "Move",
+            "nytdsection": "well",
+            "adx_keywords": "Exercise;Weight;Creativity;Dementia;Medicine and Health;Research;Two Thousand Twenty One",
+            "column": null,
+            "byline": "By Gretchen Reynolds",
+            "type": "Article",
+            "title": "The Year in Fitness: Shorter Workouts, Greater Clarity, Longer Lives",
+            "abstract": "The most vital exercise science of 2021 provided a reminder that our bodies and minds can flourish, no matter our circumstances.",
+            "des_facet": [
+                "Exercise",
+                "Weight",
+                "Creativity",
+                "Dementia",
+                "Medicine and Health",
+                "Research",
+                "Two Thousand Twenty One"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Cristina Spanò",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/01/04/well/29sci-physed-year/29sci-physed-year-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/01/04/well/29sci-physed-year/29sci-physed-year-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/01/04/well/29sci-physed-year/29sci-physed-year-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/58d95799-5a5c-5f59-8552-78b23abafcd4",
+            "url": "https://www.nytimes.com/2021/12/27/magazine/disgust-science.html",
+            "id": 100000008108231,
+            "asset_id": 100000008108231,
+            "source": "New York Times",
+            "published_date": "2021-12-27",
+            "updated": "2021-12-29 23:52:11",
+            "section": "Magazine",
+            "subsection": "",
+            "nytdsection": "magazine",
+            "adx_keywords": "Senses and Sensation;Psychology and Psychologists;Rozin, Paul;Haidt, Jonathan;Darwin, Charles Robert;Kolnai, Aurel;Angyal, Andras (1902-60);University of Pennsylvania",
+            "column": null,
+            "byline": "By Molly Young",
+            "type": "Article",
+            "title": "How Disgust Explains Everything",
+            "abstract": "For psychologists who study it, disgust is one of the primal emotions that define — and explain — humanity.",
+            "des_facet": [
+                "Senses and Sensation",
+                "Psychology and Psychologists"
+            ],
+            "org_facet": [
+                "University of Pennsylvania"
+            ],
+            "per_facet": [
+                "Rozin, Paul",
+                "Haidt, Jonathan",
+                "Darwin, Charles Robert",
+                "Kolnai, Aurel",
+                "Angyal, Andras (1902-60)"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Maisie Cousins for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/01/02/magazine/02mag-disgust-05/02mag-disgust-05-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/01/02/magazine/02mag-disgust-05/02mag-disgust-05-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/01/02/magazine/02mag-disgust-05/02mag-disgust-05-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/dc393f8f-baee-5e8a-aca1-e54db4966f45",
+            "url": "https://www.nytimes.com/2021/12/26/obituaries/wayne-thiebaud-dead.html",
+            "id": 100000006664612,
+            "asset_id": 100000006664612,
+            "source": "New York Times",
+            "published_date": "2021-12-26",
+            "updated": "2021-12-26 22:46:59",
+            "section": "Obituaries",
+            "subsection": "",
+            "nytdsection": "obituaries",
+            "adx_keywords": "Deaths (Obituaries);Art;Thiebaud, Wayne;Acquavella Galleries",
+            "column": null,
+            "byline": "By Michael Kimmelman",
+            "type": "Article",
+            "title": "Wayne Thiebaud, Playful Painter of the Everyday, Dies at 101",
+            "abstract": "Mr. Thiebaud’s rich and luminous depictions of midcentury Americana separated him from the classic Pop Art of the time.",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "Art"
+            ],
+            "org_facet": [
+                "Acquavella Galleries"
+            ],
+            "per_facet": [
+                "Thiebaud, Wayne"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Wayne Thiebaud at his studio in Sacramento in 2010. “It has never ceased to thrill and amaze me,” he said, “the magic of what happens when you put one bit of paint next to another.”",
+                    "copyright": "Max Whittaker for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/27/obituaries/00Thiebaud1/00Thiebaud1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/27/obituaries/00Thiebaud1/00Thiebaud1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/27/obituaries/00Thiebaud1/00Thiebaud1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/4a2486d7-a10c-5224-a385-152f6c16aab7",
+            "url": "https://www.nytimes.com/2021/12/28/climate/chile-constitution-climate-change.html",
+            "id": 100000008136206,
+            "asset_id": 100000008136206,
+            "source": "New York Times",
+            "published_date": "2021-12-28",
+            "updated": "2021-12-29 10:41:37",
+            "section": "Climate",
+            "subsection": "",
+            "nytdsection": "climate",
+            "adx_keywords": "Global Warming;Mines and Mining;Constitutions;Lithium (Metal);Water;Politics and Government;Conservation of Resources;Batteries;Electric and Hybrid Vehicles;Sociedad Quimica y Minera de Chile SA;Chile",
+            "column": null,
+            "byline": "By Somini Sengupta and Marcos Zegers",
+            "type": "Article",
+            "title": "Chile Writes Its Constitution, Confronting Climate Change Head On",
+            "abstract": "Chile has lots of lithium, which is essential to the world’s transition to green energy. But anger over powerful mining interests, a water crisis and inequality has driven Chile to rethink how it defines itself.",
+            "des_facet": [
+                "Global Warming",
+                "Mines and Mining",
+                "Constitutions",
+                "Lithium (Metal)",
+                "Water",
+                "Politics and Government",
+                "Conservation of Resources",
+                "Batteries",
+                "Electric and Hybrid Vehicles"
+            ],
+            "org_facet": [
+                "Sociedad Quimica y Minera de Chile SA"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Chile"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An SQM lithium processing plant.",
+                    "copyright": "",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/28/climate/28cli-constitution-munoz/28cli-constitution-munoz-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/28/climate/28cli-constitution-munoz/28cli-constitution-munoz-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/28/climate/28cli-constitution-munoz/28cli-constitution-munoz-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/22d940df-26e1-5663-aae8-78ea03e30c07",
+            "url": "https://www.nytimes.com/2021/12/28/books/stoicism-books.html",
+            "id": 100000008136895,
+            "asset_id": 100000008136895,
+            "source": "New York Times",
+            "published_date": "2021-12-28",
+            "updated": "2021-12-28 23:51:04",
+            "section": "Books",
+            "subsection": "",
+            "nytdsection": "books",
+            "adx_keywords": "Books and Literature;Philosophy;Holiday, Ryan (1987- );Seneca (4 BC-AD 65);Marcus Aurelius Antoninus",
+            "column": null,
+            "byline": "By Molly Young",
+            "type": "Article",
+            "title": "Better Living Through Stoicism, From Seneca to Modern Interpreters",
+            "abstract": "The philosophy — which, among other things, counsels how to deal with catastrophe — has experienced a revival over the past decade or so, with another uptick in interest at the start of the pandemic.",
+            "des_facet": [
+                "Books and Literature",
+                "Philosophy"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Holiday, Ryan (1987- )",
+                "Seneca (4 BC-AD 65)",
+                "Marcus Aurelius Antoninus"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“The Death of Seneca,” by Jacques-Louis David; Paris, Petit Palais, Musée Des Beaux-Arts De La Ville De Paris (Picture Gallery).",
+                    "copyright": "DeAgostini/Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/29/obituaries/28STOICS/28STOICS-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/29/obituaries/28STOICS/28STOICS-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/29/obituaries/28STOICS/28STOICS-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/42166499-638c-56a0-a138-ebb3282d04b0",
+            "url": "https://www.nytimes.com/2021/12/29/us/oklahoma-marijuana-boom.html",
+            "id": 100000008124233,
+            "asset_id": 100000008124233,
+            "source": "New York Times",
+            "published_date": "2021-12-29",
+            "updated": "2021-12-31 12:36:45",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Marijuana;Medical Marijuana;Law and Legislation;Agriculture and Farming;Entrepreneurship;Start-ups;Regulation and Deregulation of Industry;Oklahoma",
+            "column": null,
+            "byline": "By Simon Romero",
+            "type": "Article",
+            "title": "How Oklahoma Became a Marijuana Boom State",
+            "abstract": "Weed entrepreneurs have poured into Oklahoma from across the United States, propelled by low start-up costs and relaxed rules.",
+            "des_facet": [
+                "Marijuana",
+                "Medical Marijuana",
+                "Law and Legislation",
+                "Agriculture and Farming",
+                "Entrepreneurship",
+                "Start-ups",
+                "Regulation and Deregulation of Industry"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Oklahoma"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Red Dirt Sungrown in Guthrie, Okla., employs 25 people and produces about 125 pounds of cannabis each week. ",
+                    "copyright": "Brett Deering for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/27/us/00oklahoma-pot-5/00oklahoma-pot-5-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/27/us/00oklahoma-pot-5/00oklahoma-pot-5-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/27/us/00oklahoma-pot-5/00oklahoma-pot-5-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/a9b0263e-9903-5f21-8a09-d697b5671a48",
+            "url": "https://www.nytimes.com/2021/12/24/opinion/joan-didion-books.html",
+            "id": 100000008134988,
+            "asset_id": 100000008134988,
+            "source": "New York Times",
+            "published_date": "2021-12-24",
+            "updated": "2021-12-30 00:34:37",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Writing and Writers;Books and Literature;Content Type: Personal Profile;United States Politics and Government;Didion, Joan;Dunne, John Gregory",
+            "column": null,
+            "byline": "By Michiko Kakutani",
+            "type": "Article",
+            "title": "Didion’s Prophetic Eye on America",
+            "abstract": "Didion always knew something was out of sync in this country.",
+            "des_facet": [
+                "Writing and Writers",
+                "Books and Literature",
+                "Content Type: Personal Profile",
+                "United States Politics and Government"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Didion, Joan",
+                "Dunne, John Gregory"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Liz O. Baylen/Los Angeles Times, via Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/30/opinion/24kakutani1/24kakutani1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/30/opinion/24kakutani1/24kakutani1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/30/opinion/24kakutani1/24kakutani1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/096b4c41-5968-57a9-b6f1-d09c3f9e0d8d",
+            "url": "https://www.nytimes.com/2021/12/30/business/salary-negotiation-pay.html",
+            "id": 100000008137779,
+            "asset_id": 100000008137779,
+            "source": "New York Times",
+            "published_date": "2021-12-30",
+            "updated": "2021-12-31 22:28:14",
+            "section": "Business",
+            "subsection": "",
+            "nytdsection": "business",
+            "adx_keywords": "Wages and Salaries;Hiring and Promotion;Labor and Jobs;Content Type: Service",
+            "column": null,
+            "byline": "By Emily Peck",
+            "type": "Article",
+            "title": "What Do You Think You Should Be Paid?",
+            "abstract": "It’s now a common job interview question. It can also be a trap. Here’s how to answer.",
+            "des_facet": [
+                "Wages and Salaries",
+                "Hiring and Promotion",
+                "Labor and Jobs",
+                "Content Type: Service"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Shanae Chapman, a user experience researcher and designer, stopped telling recruiters her salary history and instead began giving them her salary requirements — a strategy that paid off.",
+                    "copyright": "Whitney Curtis for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2022/01/02/business/30salary-chapman/30salary-chapman-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/01/02/business/30salary-chapman/30salary-chapman-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2022/01/02/business/30salary-chapman/30salary-chapman-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/4e5db2e0-e1e8-523f-87f3-5a42725c4385",
+            "url": "https://www.nytimes.com/2021/12/24/opinion/vaccination-europe-covid-far-right.html",
+            "id": 100000008128816,
+            "asset_id": 100000008128816,
+            "source": "New York Times",
+            "published_date": "2021-12-24",
+            "updated": "2021-12-27 23:54:35",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Coronavirus (2019-nCoV);Coronavirus Omicron Variant;Politics and Government;Vaccination and Immunization;Quarantines;Right-Wing Extremism and Alt-Right;Europe;Austria;Germany",
+            "column": null,
+            "byline": "By Ivan Krastev",
+            "type": "Article",
+            "title": "From the ‘Silent Majority’ to the Unvaxxed Minority",
+            "abstract": "What Covid has done to Europe’s far right.",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Coronavirus Omicron Variant",
+                "Politics and Government",
+                "Vaccination and Immunization",
+                "Quarantines",
+                "Right-Wing Extremism and Alt-Right"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Europe",
+                "Austria",
+                "Germany"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Two women registering to receive their Covid 19 vaccines at the Johanniter Unfall Hilfe in Munich, Germany.",
+                    "copyright": "Laetitia Vancon for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/28/multimedia/24krastev_3/24krastev_3-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/28/multimedia/24krastev_3/24krastev_3-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/28/multimedia/24krastev_3/24krastev_3-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/84946613-f950-52f5-9bf5-04320fdb3af5",
+            "url": "https://www.nytimes.com/2021/12/27/science/eo-wilson-dead.html",
+            "id": 100000006698299,
+            "asset_id": 100000006698299,
+            "source": "New York Times",
+            "published_date": "2021-12-27",
+            "updated": "2021-12-30 09:33:08",
+            "section": "Science",
+            "subsection": "",
+            "nytdsection": "science",
+            "adx_keywords": "Deaths (Obituaries);Evolution (Biology);Ants;Animal Behavior;Wilson, Edward O;Harvard University",
+            "column": null,
+            "byline": "By Carl Zimmer",
+            "type": "Article",
+            "title": "E.O. Wilson, a Pioneer of Evolutionary Biology, Dies at 92",
+            "abstract": "A Harvard professor for 46 years, he was an expert on insects and explored how natural selection and other forces could influence animal behavior. He then applied his research to humans.",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "Evolution (Biology)",
+                "Ants",
+                "Animal Behavior"
+            ],
+            "org_facet": [
+                "Harvard University"
+            ],
+            "per_facet": [
+                "Wilson, Edward O"
+            ],
+            "geo_facet": [],
+            "media": [],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/b570df93-4793-5aa9-8f6c-65b02c3fd5e9",
+            "url": "https://www.nytimes.com/2021/12/24/opinion/project-veritas-new-york-times.html",
+            "id": 100000008089145,
+            "asset_id": 100000008089145,
+            "source": "New York Times",
+            "published_date": "2021-12-24",
+            "updated": "2021-12-27 09:44:11",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Freedom of the Press;News and News Media;Newspapers;Suits and Litigation (Civil);Libel and Slander;First Amendment (US Constitution);Wood, Charles D;New York Times;Project Veritas",
+            "column": null,
+            "byline": "By The Editorial Board",
+            "type": "Article",
+            "title": "A Dangerous Court Order Against The New York Times",
+            "abstract": "A troubling ruling that raises First Amendment concerns.",
+            "des_facet": [
+                "Freedom of the Press",
+                "News and News Media",
+                "Newspapers",
+                "Suits and Litigation (Civil)",
+                "Libel and Slander",
+                "First Amendment (US Constitution)"
+            ],
+            "org_facet": [
+                "New York Times",
+                "Project Veritas"
+            ],
+            "per_facet": [
+                "Wood, Charles D"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Zack DeZon for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/11/24/opinion/23press-2/merlin_177035157_bfcefb49-cc11-44ca-be12-04afd6c797ef-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/11/24/opinion/23press-2/23press-2-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/11/24/opinion/23press-2/23press-2-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/61fcedbb-9b24-5fbd-bd6d-129f134a9257",
+            "url": "https://www.nytimes.com/2021/12/30/upshot/medical-bill-ban-biden.html",
+            "id": 100000008138259,
+            "asset_id": 100000008138259,
+            "source": "New York Times",
+            "published_date": "2021-12-30",
+            "updated": "2022-01-01 14:06:28",
+            "section": "The Upshot",
+            "subsection": "",
+            "nytdsection": "the upshot",
+            "adx_keywords": "Health Insurance and Managed Care;Emergency Medical Treatment;Consumer Protection;Hospitals;Doctors;Ambulances;Prices (Fares, Fees and Rates);Law and Legislation;Regulation and Deregulation of Industry;Content Type: Service",
+            "column": null,
+            "byline": "By Margot Sanger-Katz",
+            "type": "Article",
+            "title": "A New Ban on Surprise Medical Bills Starts Today",
+            "abstract": "If you have a medical emergency, you will no longer need to worry about a large bill from a doctor you did not choose.",
+            "des_facet": [
+                "Health Insurance and Managed Care",
+                "Emergency Medical Treatment",
+                "Consumer Protection",
+                "Hospitals",
+                "Doctors",
+                "Ambulances",
+                "Prices (Fares, Fees and Rates)",
+                "Law and Legislation",
+                "Regulation and Deregulation of Industry",
+                "Content Type: Service"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The new law does not prevent ground ambulance companies from billing you directly for their services.",
+                    "copyright": "Annie Mulligan for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/31/multimedia/00up-ambulance1/00up-ambulance1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/31/multimedia/00up-ambulance1/00up-ambulance1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/31/multimedia/00up-ambulance1/00up-ambulance1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        }
+    ]
+}

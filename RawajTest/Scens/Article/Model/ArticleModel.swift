@@ -21,7 +21,11 @@ struct ArticleModel: Codable {
 }
 
 // MARK: - Result
-struct Result: Codable {
+struct Result: Codable, Equatable {
+    static func == (lhs: Result, rhs: Result) -> Bool {
+        return lhs.url == rhs.url &&
+            lhs.title == rhs.title
+    }
     var uri: String?
     var url: String?
     var id, assetID: Int?
