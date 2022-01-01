@@ -1,0 +1,6 @@
+framework module Pods_RawajTest {
+  umbrella header "Pods-RawajTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

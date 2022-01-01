@@ -1,0 +1,11 @@
+excluded: # paths to ignore during linting. Takes precedence over `included`.
+  - Pods
+  - RxSwiftTraining/AppDelegate.swift
+  - RxSwiftTrainingTests
+  - RxSwiftTrainingUITests
+
+disabled_rules:
+  - trailing_whitespace
+
+opt_in_rules: # some rules are only opt-in
+  - empty_count
